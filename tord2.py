@@ -1,6 +1,5 @@
 import streamlit as st
 import random
-from streamlit_modal import Modal
 
 # Macedonian truths and dares
 truths_mk = [
